@@ -3,10 +3,33 @@ html,
 body {
     margin: 0;
     padding: 0;
+    margin-bottom: 10px;
     box-sizing: border-box;
     font-family: "Quicksand", sans-serif;
     font-size: 62.5%;
     font-size: 10px;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: large;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#intro{
+    width: 800px;
+    height:300px;
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 20px;
 }
 
 .social {
