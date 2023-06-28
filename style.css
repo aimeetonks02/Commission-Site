@@ -170,6 +170,51 @@ img{
 	background-size:cover;
 }
 
+input {
+    border-radius: 24px;
+    margin: 5px;
+    height: fit-content;
+    border: 3px solid #902851;
+    background-color: #f9f4f4;
+    font-size: 25px;
+}
+
+button {
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+}
+
+.request {
+    width: 100%;
+    height: 100vh;
+    background-image: url('banner.PNG');
+    background-position: center top;
+	background-size:cover;
+}
+
+#reqform {
+    height: fit-content;
+    padding-bottom: 10px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(245, 138, 172);
+    border-radius: 24px;
+}
+
+.section2 {
+    height: fit-content;
+    width: 600px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 24px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: pink;
+}
+
 .contact {
     width: 100%;
     height: 100vh;
