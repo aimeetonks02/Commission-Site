@@ -239,6 +239,18 @@ button {
     transition: all 0.4s ease;
 }
 
+div.scroll-container {
+    background-color: #902851;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    border-radius: 12px;
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
+
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .container {
